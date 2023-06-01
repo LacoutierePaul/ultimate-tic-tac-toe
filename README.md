@@ -57,6 +57,8 @@ Each sub-board and the global board follow the same cell layout:
 
 For more details go to [Wikipedia : Ultimate_tic-tac-toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe)
 
+---
+
 ## 🛠 Usage
 
 1. **Run the game**  
